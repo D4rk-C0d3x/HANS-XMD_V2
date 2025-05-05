@@ -7,13 +7,13 @@
 const fs = require('fs')
 const chalk = require('chalk')
 //contact details
-global.ownernomer = "255756530143"
-global.ownername = "HANSTZ"
+global.ownernomer = "2347030626048"
+global.ownername = "C0D3 BR34K3R"
 global.ytname = "HANSTZ-TECH"
 global.socialm = "GitHub: Mrhanstz"
 global.location = "AFRICA, TANZANIA, DODOMA"
-global.ownernumber = '255756530143'  //creator number
-global.ownername = 'HANSTZ' //owner name
+global.ownernumber = '2347030626048'  //creator number
+global.ownername = 'C0D3 BR34K3R' //owner name
 global.botname = 'HANS-XMD' //name of the bot
 //sticker details
 global.packname = 'Sticker By'
